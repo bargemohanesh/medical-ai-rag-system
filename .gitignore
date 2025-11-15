@@ -1,0 +1,36 @@
+# Model files (too large for GitHub)
+week1_model_final/
+week1_model/
+*.safetensors
+*.bin
+
+# Data files
+data/
+vector_db/
+knowledge_base/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Environment
+.env
+venv/
+env/
+medai/
+
+# Logs
+*.log
+wandb/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
