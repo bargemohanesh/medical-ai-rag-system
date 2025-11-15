@@ -1,3 +1,4 @@
+
 # 🏥 Medical AI RAG System
 
 Production-grade Medical AI Assistant with Fine-tuned Llama 3.1 8B + RAG (Retrieval Augmented Generation)
@@ -20,7 +21,7 @@ A specialized medical AI system that combines:
 ## 🚀 Quick Start
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/medical-ai-rag-system.git
+git clone https://github.com/bargemohanesh/medical-ai-rag-system.git
 cd medical-ai-rag-system
 
 # Install dependencies
@@ -76,8 +77,8 @@ MIT
 ## 👤 Author
 
 **Mohanesh**
-- LinkedIn: [Your LinkedIn]
-- GitHub: [@YourUsername](https://github.com/YourUsername)
+- LinkedIn: https://www.linkedin.com/in/mohanesh-barge/
+- GitHub: [@bargemohanesh](https://github.com/bargemohanesh)
 
 ---
 
