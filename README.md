@@ -1,24 +1,24 @@
 
-# 🏥 Medical AI RAG System
+#  Medical AI RAG System
 
 Production-grade Medical AI Assistant with Fine-tuned Llama 3.1 8B + RAG (Retrieval Augmented Generation)
 
-## 🎯 Overview
+##  Overview
 
 A specialized medical AI system that combines:
 - **Fine-tuned Llama 3.1 8B** on 10,000 medical questions
 - **RAG system** for retrieval from medical knowledge base
 - **Source citations** for medical accuracy
 
-## ✨ Features
+##  Features
 
-- ✅ Fine-tuned on MedMCQA dataset (10K medical questions)
-- ✅ QLoRA 4-bit quantization for efficient training
-- ✅ RAG system with ChromaDB vector database
-- ✅ Medical document retrieval with citations
-- ✅ Runs on RTX 5080 (16GB VRAM)
+-  Fine-tuned on MedMCQA dataset (10K medical questions)
+-  QLoRA 4-bit quantization for efficient training
+-  RAG system with ChromaDB vector database
+-  Medical document retrieval with citations
+-  Runs on RTX 5080 (16GB VRAM)
 
-## 🚀 Quick Start
+##  Quick Start
 ```bash
 # Clone repository
 git clone https://github.com/bargemohanesh/medical-ai-rag-system.git
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 python week2_rag.py
 ```
 
-## 📊 Results
+##  Results
 
 ### Week 1: Fine-tuning
 - **Training time:** 4.2 hours
@@ -45,14 +45,14 @@ python week2_rag.py
 - **Embedding model:** all-MiniLM-L6-v2
 - **Retrieval accuracy:** Provides relevant sources with citations
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Model:** Meta Llama 3.1 8B Instruct
 - **Training:** QLoRA (4-bit), PyTorch 2.10, CUDA 12.8
 - **RAG:** ChromaDB, Sentence Transformers
 - **Hardware:** NVIDIA RTX 5080 (16GB VRAM)
 
-## 📁 Project Structure
+##  Project Structure
 ```
 medical-ai-rag-system/
 ├── week1_finetune.py      # Fine-tuning script
@@ -61,7 +61,7 @@ medical-ai-rag-system/
 └── README.md              # Documentation
 ```
 
-## 🎯 Roadmap
+##  Roadmap
 
 - [x] Week 1: Fine-tune Llama 3.1 8B on medical data
 - [x] Week 2: Build RAG system with citations
@@ -70,11 +70,11 @@ medical-ai-rag-system/
 - [ ] Week 6-7: Add authentication & analytics
 - [ ] Week 8: Deploy to cloud
 
-## 📝 License
+##  License
 
 MIT
 
-## 👤 Author
+##  Author
 
 **Mohanesh**
 - LinkedIn: https://www.linkedin.com/in/mohanesh-barge/
